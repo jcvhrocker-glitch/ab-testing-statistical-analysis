@@ -1,0 +1,12 @@
+data/*.csv
+data/*.parquet
+outputs/
+outputs_*/
+outputs_notebook_*/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+*.pem
+.aws/
+.DS_Store
