@@ -1,0 +1,1 @@
+Download the public dataset and place it here as `ab_data.csv` for local runs. Do not commit user-level experiment data or AWS credentials.
